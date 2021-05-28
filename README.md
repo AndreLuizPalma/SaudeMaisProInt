@@ -180,23 +180,13 @@ Tabela de conteúdos
 
 ## 💻 [Sobre](#Sobre)
 
-
+O Saúde Mais é um Aplicativo voltado para o fornecimento de alimentos sustentáveis, com preocupações eco sustentáveis para Clientes que buscam uma Vida mais saudável
 
 Os usuarios poderam:
 
--> Se cadastrar na aba web do projeto 
--> Cadastrar e editar os combustiveis disponiveis para venda
--> Acompanhar as vendas de credito de combustiveis
--> Editar as informações do seu cadastro
--> Efetuar o checkout do uso do credito junto ao consumidor no momento do abastecimento
+-> Se cadastrar atravez do Google e Facebook
 
-Os consumidores poderam: 
-
--> Se cadastrar através do aplicativo
--> Editar seus dados cadastrais 
--> Efetuar a compra do credito de combustivel
--> Acompanhar o historico de compras e utilizações dos creditos
--> Efetuar o checkout do credito no momento do abastecimento
+-> Comprar produtos alimenticios saudáveis
 
 ## [Features](#Features)
 
