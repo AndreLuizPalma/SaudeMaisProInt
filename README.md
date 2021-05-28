@@ -360,6 +360,6 @@ Feito por Emerson Willian,Ana Paula, Willian Santos 👋🏽
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](https://gitlab.com/unimar-ads/fuel-supply/fuel-supply-app/-/blob/master/LICENSE).
+Este projeto esta sobe a licença [MIT](https://github.com/AndreLuizPalma/SaudeMaisProInt/blob/4d4b931888ba5b1e57fc061023a6d11783d16110/LICENSE).
 
 
