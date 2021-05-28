@@ -8,7 +8,7 @@
 
 O Saúde Mais é um Aplicativo voltado para o fornecimento de alimentos sustentáveis, com preocupações eco sustentáveis para Clientes que buscam uma Vida mais saudável
 
-<img alt="SaudeMaisProInt" title="um" src=".WhatsApp Image 2021-05-27 at 19.02.06.jpeg" width="180px" />
+<img alt="SaudeMaisProInt" title="um" src=".WhatsApp Image 2021-05-27 at 19.02.06.jpeg" />
 
 
 
