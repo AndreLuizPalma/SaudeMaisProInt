@@ -222,140 +222,22 @@ Os consumidores poderam:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [React Native](https://reactnative.dev/), 
-[Android Studio + Virtual Device Android >= 9.0](https://developer.android.com/studio), [Docker](https://docs.docker.com/docker-for-windows/install/), [MySQLworkbench](https://www.mysql.com/products/workbench/)
+[Git](https://git-scm.com), [Flutter](https://flutter.dev/), [Dart](https://dart.dev/get-dart), 
+[Android Studio + Virtual Device Android >= 4.4.1](https://developer.android.com/studio), [Docker](https://docs.docker.com/docker-for-windows/install/), [SQFLite](https://pub.dev/packages/sqflite)
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back End (API)
-
-```bash
-
-#Instanciando mariadb no docker
-docker run -p 3306:3306  --name some-mariadb -e MARIADB_ROOT_PASSWORD=my-secret-pw -d mariadb
-
-# Abra o MySQLworkbench e crie a conexão 
-Link para ajudar a criar a conexão https://www.youtube.com/watch?v=qa7SWCozY_A
-
-# crie o banco com sql deste Link 
-https://drive.google.com/file/d/18a3vpPKT0lKT28bvfA1etXHUGVnWkHf_/view?usp=sharing
-
-# Clone este repositório
-$ git clone <https://gitlab.com/unimar-ads/fuel-supply/fuel-supply-app.git>
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd fuel-supply-app
-
-# Vá para a pasta api
-$ cd api
-
-# Instale as dependências
-$ npm install
-$ npm install --save express
-$ npm install --save cors
-$ npm install --save jsonwebtoken
-$ npm install --save morgan
-$ npm install --save body-parser
-$ npm install --save express
-$ npm install --save bcrypt
-$ npm install --save mysql
-
-#conectar mysql com a API
-link do video para conectar o mysql com a api : https://www.youtube.com/watch?v=642J5YzLXDk
-
-# Execute a aplicação
-$ npm start
-
-# o Server vai inicar em  <http://localhost:3000>
-
-# A API também ja esta online no serviço heroku url base: https://fuel-supply-api.herokuapp.com/ 
-
-
-```
-
-### 💻 Rodando Cliente web
-
-```bash
-
-# Clone este repositório
-$ git clone <https://gitlab.com/unimar-ads/fuel-supply/fuel-supply-app.git>
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd fuel-supply-app
-
-# Vá para a pasta web
-$ cd web
-
-# Instale as dependências
-$ npm install
-$ npm install --save vue
-$ npm install --save axios
-$ npm install --save bootstrap
-$ npm install --save vuex
-
-# Execute a aplicação 
-$ npm run serve
-
-# A aplicação inciará na porta:8080 - acesse <http://localhost:8080>
-
-
-```
-
-### 📱 Rodando APP
-
-```bash
-
-# Clone este repositório
-$ git clone <https://gitlab.com/unimar-ads/fuel-supply/fuel-supply-app.git>
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd fuel-supply-app
-
-# Vá para a pasta app
-$ cd app
-
-# Instale as dependências
-$ npm install
-$ npm install --save @fortawesome/fontawesome-svg-core
-$ npm install --save @fortawesome/free-solid-svg-icons
-$ npm install --save @fortawesome/react-fontawesome
-$ npm install --save @react-native-async-storage/async-storage
-$ npm install --save @react-native-community/masked-view
-$ npm install --save @react-native-masked-view/masked-view
-$ npm install --save @react-navigation/bottom-tabs
-$ npm install --save @react-navigation/native
-$ npm install --save @react-navigation/stack
-$ npm install --save apisauce
-$ npm install --save link
-$ npm install --save node-fetch
-$ npm install --save react
-$ npm install --save react-icons
-$ npm install --save react-native
-$ npm install --save react-native-elements
-$ npm install --save react-native-gesture-handler
-$ npm install --save react-native-masked-text
-$ npm install --save react-native-reanimated
-$ npm install --save react-native-safe-area-context
-$ npm install --save react-native-screens
-$ npm install --save react-native-vector-icons
-
-# Execute a aplicação 
-$ npx react-native run-android
-
-# A aplicação inciará no emulador instalado no Android studio
-
-```
 
 ### 🛠 [Tecnologias](#tecnologias)
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Node.js](https://nodejs.org/en/)
-- [React Native](https://reactnative.dev/)
-- [Vue.js](https://vuejs.org/)
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/get-dart)
+- [SQFLite](https://pub.dev/packages/sqflite)
 
 ## Autores
 
-Feito por Emerson Willian,Ana Paula, Willian Santos 👋🏽
+Feito por André Luiz Palma, Gabriel Victor Raimundo, Wesley Vericimo.
 
 
 ## 📝 Licença
