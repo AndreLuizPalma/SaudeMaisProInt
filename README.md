@@ -8,14 +8,23 @@
 
 O Saúde Mais é um Aplicativo voltado para o fornecimento de alimentos sustentáveis, com preocupações eco sustentáveis para Clientes que buscam uma Vida mais saudável
 
-Os usuarios poderam:
+
+href<https://github.com/AndreLuizPalma/SaudeMaisProInt/blob/2f8a2f0c01821bb3e76edd64d0208969f1e09fbf/WhatsApp%20Image%202021-05-27%20at%2019.02.06.jpeg>
+
+
 
 
 ## Features
 
 -> Se cadastrar atravez do Google e Facebook
 
+-> Realizar cadastro no próprio banco Saúde mais
+
 -> Comprar produtos alimenticios saudáveis
+
+-> (Caso seja um fornecedor) Anúnciar produtos
+
+-> Avaliar produtos
 
 ## Como usar
 
