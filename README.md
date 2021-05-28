@@ -180,41 +180,38 @@ Tabela de conteúdos
 
 ## 💻 [Sobre](#Sobre)
 
-O projeto FuelSupply é um projeto para a materia de projeto integrador de turma do 5º termo de ADS 2021 da Unimar - Universidade de Marília, professor Victor Borba.
 
-Este projeto visa conectar consumidores que querem ecomizar consumidores que desejam ecomizar no abastecimento de veiculos, e postos de combustiveis que visam vender mais.
 
-Os postos de combustiveis poderam:
+Os usuarios poderam:
 
-- Se cadastrar na aba web do projeto 
-- Cadastrar e editar os combustiveis disponiveis para venda
-- Acompanhar as vendas de credito de combustiveis
-- Editar as informações do seu cadastro
-- Efetuar o checkout do uso do credito junto ao consumidor no momento do abastecimento
+-> Se cadastrar na aba web do projeto 
+-> Cadastrar e editar os combustiveis disponiveis para venda
+-> Acompanhar as vendas de credito de combustiveis
+-> Editar as informações do seu cadastro
+-> Efetuar o checkout do uso do credito junto ao consumidor no momento do abastecimento
 
 Os consumidores poderam: 
 
-- Se cadastrar através do aplicativo
-- Editar seus dados cadastrais 
-- Efetuar a compra do credito de combustivel
-- Acompanhar o historico de compras e utilizações dos creditos
-- Efetuar o checkout do credito no momento do abastecimento
+-> Se cadastrar através do aplicativo
+-> Editar seus dados cadastrais 
+-> Efetuar a compra do credito de combustivel
+-> Acompanhar o historico de compras e utilizações dos creditos
+-> Efetuar o checkout do credito no momento do abastecimento
 
 ## [Features](#Features)
 
-- [x] Cadastro de Posto
-- [x] Cadastro de combustiveis
-- [x] Edição de combustiveis
-- [x] Listagem de vendas
-- [ ] Editar informações do Posto
-- [ ] checkout Posto da compra de credito
-
-- [x] Cadastro de usuario
-- [ ] Editar informações do usuario
-- [x] Efetuar compra do credito
-- [x] Listagem das compras de credito
-- [ ] Listagem das utilizações de credito
-- [ ] checkout do usuario no abastecimento
+->  Cadastro de Posto
+->  Cadastro de combustiveis
+->  Edição de combustiveis
+->  Listagem de vendas
+->  Editar informações do Posto
+->  checkout Posto da compra de credito
+->  Cadastro de usuario
+->  Editar informações do usuario
+->  Efetuar compra do credito
+->  Listagem das compras de credito
+->  Listagem das utilizações de credito
+->  checkout do usuario no abastecimento
 
 
 ## [Como usar](#como-usar)
